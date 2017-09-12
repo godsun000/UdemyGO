@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello world!")
+	fmt.Println("Hello go world!")
 	utility.Util()
 	//for i:=0;i<10;i++{
 	//	fmt.Printf("ten: %d \t binary: %b \t hex: %x \t utf-8: %q \n",i,i,i)
